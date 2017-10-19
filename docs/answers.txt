@@ -29,4 +29,10 @@ i)	I) Inhertiance enables new objects to take on the properties of existing obje
 	III) Encapsulation is when you protect both the data and functions that manipulate 
 		the data from outside interference. It hides the functions and implementations
 		from the user. For example, defining data in a function class to be private 
-		is protecting it from other users since only the class can call it.  
+		is protecting it from other users since only the class can call it. 
+		
+
+7. It uses polymorphism in the WeaponFactory and Weapons classes. Weapons of all different 
+kinds are able to pass through both objects classes. It uses Encapsulation by having 
+private and protected functions that the user doesnt have access to in both of those 
+functions as well, in order to protect the data and the purpose of the function.
