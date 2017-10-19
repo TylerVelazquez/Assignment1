@@ -1,0 +1,32 @@
+a) 	On branch development
+	Your branch is up-to-date with 'origin/development'.
+	nothing to commit, working tree clean
+
+b) 	7 commits have been done on this repository. I used "git log" in order to 
+	find this information
+	
+c)	The file .gitignore was last modified Oct. 19 04:35:58. i used: git --follow .gitignore 
+
+d)	e7831f6, a46d926, icc7d66
+
+e)	One reason to use branches in Git repositories is so that a team can work together in 
+	building a software at the same time rather than on just one computer or one at a time.
+	Another reason is that you can isolate any changes you add to the software, which could
+	include adding features or fixing bugs.
+	
+f) 	git log shows the complete history of all commits that were made, while git status shows
+	the current working tree status of what is currently being committed
+	
+g)	git log --follow Weapon.h
+
+h) 	git log --grep "file"
+
+i)	I) Inhertiance enables new objects to take on the properties of existing objects.
+	II) Polymorphism is the ability to process objects differently depending on their 
+		data type. For example, finding the area of a base class shape. Polymorphism
+		allows you to get the area regardless of the shape, whether its a triangle,
+		circle, ect.
+	III) Encapsulation is when you protect both the data and functions that manipulate 
+		the data from outside interference. It hides the functions and implementations
+		from the user. For example, defining data in a function class to be private 
+		is protecting it from other users since only the class can call it.  
